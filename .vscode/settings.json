@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": true,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.clang_format_path": "/opt/clang110/bin/clang-format",
+    "editor.formatOnSave": true
+}
